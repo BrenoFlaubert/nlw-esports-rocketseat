@@ -36,4 +36,4 @@
 
 ## ✍ Author
 
-- [Breno Flaubert]()
+- [Breno Flaubert](https://www.linkedin.com/in/breno-flaubert-8006b81a5/)
